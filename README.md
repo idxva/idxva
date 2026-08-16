@@ -2,7 +2,7 @@
 <h3 align="center"> Building AI Projects Hands-On</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Computer+Vision+%7C+NLP;YOLO+%2B+ByteTrack+Tracking;Building+a+JARVIS-style+Assistant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Computer+Vision+%7C+NLP;YOLO+%2B+ByteTrack+Tracking" alt="Typing SVG" />
 </p>
 
 ---
