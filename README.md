@@ -38,15 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=idxva&show_icons=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=idxva&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://idxva.github.io/Portfolio/" target="_blank">🔗 Portfolio</a>
