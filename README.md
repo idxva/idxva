@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 BSc Artificial Intelligence student
+- 🎓 Pursuing **BSc Artificial Intelligence student**
 - 🔭 Currently exploring **Computer Vision** and **NLP**
 - 🛠️ I learn best by building — projects over pure theory
 - 🎯 Long-term goal: build a personal **Personal AI assistant**
