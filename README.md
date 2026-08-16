@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deva</h1>
-<h3 align="center">III BSc AI Student | Building AI Projects Hands-On</h3>
+<h3 align="center"> Building AI Projects Hands-On</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Computer+Vision+%7C+NLP;YOLO+%2B+ByteTrack+Tracking;Building+a+JARVIS-style+Assistant" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 ---
 
 ### 🧠 About Me
-- 🎓 III BSc Artificial Intelligence student
+- 🎓 BSc Artificial Intelligence student
 - 🔭 Currently exploring **Computer Vision** and **NLP**
 - 🛠️ I learn best by building — projects over pure theory
-- 🎯 Long-term goal: build a personal **JARVIS-style AI assistant**
+- 🎯 Long-term goal: build a personal **Personal AI assistant**
 - 🌱 Currently leveling up: real-time detection pipelines & emotion-aware NLP systems
 - 📫 Portfolio: [idxva.github.io/Portfolio](https://idxva.github.io/Portfolio/)
 
