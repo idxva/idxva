@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deva</h1>
+<h1 align="center">Hi, I'm Deva</h1>
 <h3 align="center">Build something worth trusting.</h3>
 
 <!--<p align="center">
