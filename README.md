@@ -19,7 +19,6 @@
 
 ### 🚀 Featured Work
 - **Real-time Object Detection** — YOLOv12 + ByteTrack + RTSP streaming with CUDA acceleration
-- **Emotion Flow Analyzer** — Sentence-level NLP & emotion analysis using Python, Streamlit & SQLite
 
 ---
 
