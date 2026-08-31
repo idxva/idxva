@@ -8,9 +8,7 @@
   <em>Ex duris gloria</em>
 </p>
 
-<p align="center">
-  <a href="https://idxva.github.io/Portfolio/">Portfolio</a>
-</p>
+
 
 ---
 
