@@ -1,60 +1,122 @@
-<h1 align="center">Deva</h1>
-<h4 align="center">AI Student · Computer Vision & NLP</h4>
+<h1 align="center">Hi, I'm Deva 👋</h1>
 
 <p align="center">
-  <a href="https://idxva.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/idxva" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <strong>Artificial Intelligence Student • Computer Vision • NLP</strong>
+</p>
+
+<p align="center">
+  <em>Ex duris gloria</em>
+</p>
+
+<p align="center">
+  <a href="https://idxva.github.io/Portfolio/">Portfolio</a>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Third-year BSc Artificial Intelligence student focused on Computer Vision and Natural Language Processing. I take a project-first approach to learning — building real systems rather than working through theory alone.
+I'm a **BSc Artificial Intelligence student** focused on building practical AI systems and learning through hands-on projects.
 
-- 🔭 Currently exploring real-time detection pipelines and emotion-aware NLP systems
-- 🎯 Long-term goal: build a fully functional personal AI assistant
-- 🌱 Coursework: Computer Vision, Natural Language Processing
-
----
-
-## Featured Work
-
-**Real-Time Object Detection Pipeline**
-YOLOv12 + ByteTrack multi-object tracking with RTSP streaming and CUDA acceleration for low-latency, real-time inference.
+* 🎓 Pursuing **BSc in Artificial Intelligence**
+* 👁️ Exploring **Computer Vision** and **Natural Language Processing**
+* 🔨 Learning by building real-world projects rather than relying solely on theory
+* ⚡ Interested in **real-time AI systems, object detection, tracking, and intelligent applications**
+* 🧠 Currently working with **real-time detection pipelines** and **emotion-aware NLP systems**
+* 🎯 Long-term goal: build a capable **personal AI assistant**
+* 🌐 Portfolio: [idxva.github.io/Portfolio](https://idxva.github.io/Portfolio/)
 
 ---
 
-## Tech Stack
+## 🚀 Featured Project
 
-**Languages & Core**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=flat&logo=linux&logoColor=white" />
+### Real-Time Object Detection & Tracking
+
+A real-time computer vision pipeline designed for object detection and multi-object tracking.
+
+**Tech:** `YOLOv12` · `ByteTrack` · `OpenCV` · `RTSP` · `CUDA`
+
+**Highlights**
+
+* 🎯 Real-time object detection
+* 🔄 Multi-object tracking with ByteTrack
+* 📹 RTSP camera stream processing
+* ⚡ CUDA-accelerated inference
+* 🧩 Designed as a modular real-time vision pipeline
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-**Computer Vision & ML**
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat" />
+### AI & Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/ByteTrack-111111?style=flat-square" />
 </p>
 
-**Tools & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+### NLP & Applications
+
+<p>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
 
 ---
 
-## Connect
+## 📌 Current Focus
+
+```text
+Computer Vision
+├── Real-time Object Detection
+├── Multi-Object Tracking
+├── RTSP Video Pipelines
+└── GPU-Accelerated Inference
+
+Natural Language Processing
+├── Text Processing
+├── Emotion Analysis
+└── Intelligent NLP Applications
+```
+
+---
+
+## 📈 What I'm Building Toward
+
+My current goal is to combine **Computer Vision, NLP, and real-time systems** into intelligent applications that can understand and interact with their environment.
+
+> **Build. Experiment. Break things. Learn. Repeat.**
+
+---
+
+## 🌐 Connect
 
 <p align="left">
-  <a href="https://idxva.github.io/Portfolio/" target="_blank">Portfolio</a>
-  <!-- Add socials below when ready:
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  -->
+  <a href="https://idxva.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building intelligent systems, one project at a time.</em>
 </p>
