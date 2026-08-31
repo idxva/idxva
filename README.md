@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+#🧠 About Me
 - 🎓 Pursuing **BSc Artificial Intelligence**
 - 🔭 Currently exploring **Computer Vision** and **NLP**
 - 🛠️ I learn best by building — projects over pure theory
