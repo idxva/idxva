@@ -116,5 +116,5 @@ My current goal is to combine **Computer Vision, NLP, and real-time systems** in
 ---
 
 <p align="center">
-  <em>Building intelligent systems, one project at a time.</em>
+  <em>Building intelligence !</em>
 </p>
