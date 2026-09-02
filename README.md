@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deva 👋</h1>
+<h1 align="center">Hi, I'm Deva </h1>
 
 <p align="center">
   <strong>Artificial Intelligence Student • Computer Vision • NLP</strong>
