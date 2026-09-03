@@ -83,7 +83,6 @@ Natural Language Processing
 
 My current goal is to combine **Computer Vision, NLP, and real-time systems** into intelligent applications that can understand and interact with their environment.
 
-> **Build. Experiment. Break things. Learn. Repeat.**
 
 ---
 
@@ -98,5 +97,5 @@ My current goal is to combine **Computer Vision, NLP, and real-time systems** in
 ---
 
 <p align="center">
-  <em>Building intelligence !</em>
+  <em>**Build. Experiment. Break things. Learn. Repeat.**</em>
 </p>
