@@ -26,24 +26,6 @@ I'm a **BSc Artificial Intelligence student** focused on building practical AI s
 
 ---
 
-## 🚀 Featured Project
-
-### Real-Time Object Detection & Tracking
-
-A real-time computer vision pipeline designed for object detection and multi-object tracking.
-
-**Tech:** `YOLOv12` · `ByteTrack` · `OpenCV` · `RTSP` · `CUDA`
-
-**Highlights**
-
-* 🎯 Real-time object detection
-* 🔄 Multi-object tracking with ByteTrack
-* 📹 RTSP camera stream processing
-* ⚡ CUDA-accelerated inference
-* 🧩 Designed as a modular real-time vision pipeline
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Core
