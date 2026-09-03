@@ -97,5 +97,5 @@ My current goal is to combine **Computer Vision, NLP, and real-time systems** in
 ---
 
 <p align="center">
-  <em>**Build. Experiment. Break things. Learn. Repeat.**</em>
+  <em> Build. Experiment. Break things. Learn. Repeat.</em>
 </p>
