@@ -22,7 +22,7 @@ I'm a **BSc Artificial Intelligence student** focused on building practical AI s
 *  Interested in **real-time AI systems, object detection, tracking, and intelligent applications**
 *  Currently working with **real-time detection pipelines** and **emotion-aware NLP systems**
 *  Long-term goal: build a capable **personal AI assistant**
-* 🌐 Portfolio: [idxva.github.io/Portfolio](https://idxva.github.io/Portfolio/)
+*  Portfolio: [idxva.github.io/Portfolio](https://idxva.github.io/Portfolio/)
 
 ---
 
@@ -91,6 +91,7 @@ My current goal is to combine **Computer Vision, NLP, and real-time systems** in
 
 <p align="left">
   <a href="https://idxva.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
